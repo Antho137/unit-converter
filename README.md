@@ -8,7 +8,7 @@
 ## Features
 
 - First input a number in the box 
-- Clicking convert button will display the length conversion (meter/feet), volume conversion (liters/gallons), as well as mass conversion (kilograkms/pounds)                            
+- Clicking convert button will display the length conversion (meter/feet), volume conversion (liters/gallons), as well as mass conversion (kilograms/pounds)                            
 
 ## Built with
 
